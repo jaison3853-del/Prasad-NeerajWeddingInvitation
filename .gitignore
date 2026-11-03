@@ -1,0 +1,9 @@
+.vercel/
+node_modules/
+.env
+.env.*
+!.env.example
+Prasad-Neeraja-Reference-Version.html
+Prasad-Neeraja-Scroll-Invitation.html
+Prasad-Neeraja-Website.zip
+website.html
