@@ -10,7 +10,7 @@ The film moves forwards and backwards with native scrolling. The timeline suppor
 python3 -m http.server 8000
 ```
 
-Open the local server in a browser. There are no build steps or package dependencies.
+Open the local server in a browser for a basic preview. Interactive video seeking requires a server with HTTP byte-range support, which Vercel provides. There are no build steps or application package dependencies.
 
 ## Deploy on Vercel
 
